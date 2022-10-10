@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am an engineer. I am usually involved in the development of industrial robots.
+Currently, I am developing a quadruped robot on my own.
 ## Languages and Tools I Use
 https://yt2028.github.io/<br>
 <img src="image/cpp_IMGP.png" width="20" height="20">&ensp;__C++__<br>
