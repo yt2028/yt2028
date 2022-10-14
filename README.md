@@ -1,4 +1,4 @@
-## My infomation
+## Biography
 I am usually involved in the development of industrial robots.<br>
 Currently, I am developing a quadruped robot on my own.<br>
 ## Languages and Tools I Use
